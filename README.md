@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, My name is Adam Imran Bin Alwi</h1>
-<h3 align="center">A Computer Science Student Who is passionate in ui/ux design and front-end development</h3>
+<h3 align="center">A Computer Science Student Who is passionate in UI/UX Design and Front-End Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamimrn22&label=Profile%20views&color=0e75b6&style=flat" alt="adamimrn22" /> </p>
 
